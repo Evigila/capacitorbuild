@@ -1,2 +1,2 @@
 # capacitorbuild
-An Android project converted using capacitor
+Android projects converted using capacitor
